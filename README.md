@@ -17,7 +17,7 @@ Import /db/youtube_tips.sql to your MySQL database
 
 Update the config.php with your settings.
 
-Set the Video ID in yt.php to the Video ID that you want the app to to tip on
+Set the Video ID in yt.php to the Video ID that you want the app to run on
 
 Run the application either with php yt.php or with ./start.sh
 
