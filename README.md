@@ -1,5 +1,5 @@
 # youtube-tipper
-Application that automatically tips users a small amount of NANO to every YouTube comment containing a NANO address
+Application that automatically sends a small amount of NANO to every YouTube comment containing a NANO address
 
 # Requirements
 PHP
